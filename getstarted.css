@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.start{
+    justify-content: center;
+    align-items: center;
+}
+.container-fluid{
+    justify-content: center;
+    align-items: center#;
+}
+#span{
+    text-shadow: 0px 1px 1px black;
+}
+#start span{
+    color: #ffa500;
+}
+.brand-form{
+    font-size: 30px;
+    font-weight: 400;
+}
